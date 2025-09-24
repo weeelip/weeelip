@@ -21,9 +21,8 @@ I am currently student in **FullStack Development** and also working as a **free
 
 ## 👨‍🎨 My Favorite Tools to Create 👨‍🎨
 
-![Flutter](https://img.shields.io/badge/-Flutter-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Flask](https://img.shields.io/badge/-Fkask-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
-
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ---
 
 ## 👨‍💻 And I'm Actually Working On 👨‍💻
