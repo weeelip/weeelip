@@ -35,4 +35,4 @@ I am currently student in **FullStack Development** and also working as a **free
 
 ## 🤝 Let's Collaborate Together!
 
-[![LinkedIn](https://img.shields.io/badge/-Célian%20Lebacle-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/celian-lebacle/)
+[![LinkedIn](https://img.shields.io/badge/-Célian%20Bedminster-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/c%C3%A9lian-b-7152b626a/)
